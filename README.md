@@ -63,7 +63,7 @@
 
 ## 🚀 Featured Projects
 
-> Tip: giữ 3–5 dự án “đỉnh” thôi (có demo/ảnh càng tốt).
+
 
 <div align="center">
 
@@ -85,14 +85,14 @@
 </div>
 
 <details>
-  <summary><b>Example: AirForce (NASA Space Apps)</b></summary>
+  <summary><b>name</b></summary>
 
-  **AirForce** — Air-quality monitoring + 7-day AQI forecasting using satellite & ground data.  
-  - Integrates: **TEMPO**, **EPA AirNow**, **NOAA**  
-  - Models: **ARIMA**, **LSTM**  
-  - Outputs: forecasting + alert thresholds + visualization
+  **Name** 
+  - Integrates:  
+  - Models:  
+  - Outputs: 
 
-  Repo: https://github.com/REPLACE_WITH_REAL/AirForce
+  Repo: 
 </details>
 
 ---
@@ -129,8 +129,8 @@
 ## 📫 Contact
 
 - LinkedIn: https://www.linkedin.com/in/YOUR_LINKEDIN_ID/
-- Email: YOUR_EMAIL@gmail.com
-- Portfolio: https://your-portfolio-site.com
+- Email: vanha.cv.vn@gmail.com
+- Portfolio: https://vanha2301.com
 
 ---
 
