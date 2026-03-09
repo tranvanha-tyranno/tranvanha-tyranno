@@ -10,7 +10,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Van%20Ha%20Tran%20(Tyranno)&fontSize=52&fontAlign=50&fontAlignY=42&desc=CS%20Student%20%7C%20ML%20%7C%20NLP%20%7C%20CV%20%7C%20Web%20Dev&descAlign=50&descAlignY=72&animation=twinkling&color=0:22c55e,50:06b6d4,100:8b5cf6" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=900&center=true&vCenter=true&width=900&lines=Hi%2C+I%27m+Van+Ha+Tran+%F0%9F%91%8B;I+build+useful+things+with+AI+%26+Web;ML+%E2%80%A2+NLP+%E2%80%A2+CV+%E2%80%A2+Backend+%E2%80%A2+Frontend;Always+learning%2C+always+shipping" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=900&center=true&vCenter=true&width=900&lines=Hi%2C+I%27m+V.+Ha+Tran+%F0%9F%91%8B;I+build+useful+things+with+AI+%26+Web;ML+%E2%80%A2+NLP+%E2%80%A2+CV+%E2%80%A2+Backend+%E2%80%A2+Frontend;Always+learning%2C+always+shipping" alt="Typing SVG" />
 
 <p>
   <b>Focused on</b> ML · NLP · CV · Web Development · Research <br/>
