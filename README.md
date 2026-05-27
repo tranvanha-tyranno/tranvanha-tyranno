@@ -92,9 +92,9 @@ I enjoy working on projects that connect research, models, APIs, user interfaces
 
 I am open to internship opportunities, research projects, and software development collaborations.
 
-- Email: [vanha.cv.vn@gmail.com](mailto:vanha.cv.vn@gmail.com)
-- LinkedIn: [https://www.linkedin.com/in/van-ha-tran-29b8b738b/](https://www.linkedin.com/in/van-ha-tran-29b8b738b/)
-- Portfolio: [https://vanha2301.com](https://vanha2301.com)
+Email: [vanha.cv.vn@gmail.com](mailto:vanha.cv.vn@gmail.com)  
+LinkedIn: [linkedin.com/in/tranvanha/](https://www.linkedin.com/in/tranvanha/)  
+GitHub: [tranvanha-tyranno](https://github.com/tranvanha-tyranno)
 
 ---
 
