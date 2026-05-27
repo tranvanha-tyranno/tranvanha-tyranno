@@ -1,13 +1,13 @@
-# V. Ha Tran
+# V. Ha Tran (Tyranno)
 
 Computer Science student at **Ton Duc Thang University**  
 Focused on **Machine Learning**, **Natural Language Processing**, **Computer Vision**, and **Web Development**
 
 Ho Chi Minh City, Vietnam  
-Portfolio: [vanha2301.com](https://vanha2301.com)  
+Portfolio: [luminostech.tech/tranvanha](https://luminostech.tech/tranvanha)  
 Email: [vanha.cv.vn@gmail.com](mailto:vanha.cv.vn@gmail.com)  
-LinkedIn: [van-ha-tran-29b8b738b](https://www.linkedin.com/in/van-ha-tran-29b8b738b/)  
-GitHub: [vanha2301](https://github.com/vanha2301)
+LinkedIn: [linkedin.com/in/tranvanha/](https://www.linkedin.com/in/tranvanha/)  
+GitHub: [tranvanha-tyranno](https://github.com/tranvanha-tyranno)
 
 ---
 
@@ -79,11 +79,11 @@ I enjoy working on projects that connect research, models, APIs, user interfaces
 ## GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=vanha2301&show_icons=true&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tranvanha-tyranno&show_icons=true&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanha2301&layout=compact&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranvanha-tyranno&layout=compact&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
