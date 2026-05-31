@@ -56,47 +56,50 @@ PostgreSQL · MongoDB · Git · GitHub · Docker · Linux · Visual Studio Code
 
 ---
 
-## Selected Work
+## Project 
 
-### Artificial Intelligence and Machine Learning
+### Last Fire — Forest Fire Risk Prediction System
 
-Applied machine learning projects involving data preprocessing, model development, evaluation, and deployment-oriented experimentation.
+A research-oriented forest fire risk prediction system that estimates the probability of fire occurrence across monitoring nodes in Vietnam for the next seven days. The project combines graph-based spatial modeling and recurrent temporal modeling through a Time-GCN + GRU architecture, using historical weather data to support early warning and risk assessment.
 
-**Technologies:** Python, Machine Learning, Data Processing
+**Technologies:** Python, PyTorch, FastAPI, Time-GCN, GRU, Weather Data Processing, Leaflet, Chart.js
 
-[Repository](#) · [Demonstration](#)
+[Repository](https://github.com/tranvanha-tyranno/NCKHSV-25-26-LastFire)
 
----
-
-### Computer Vision Applications
-
-Computer vision systems for image processing, object detection, classification, and visual analysis.
-
-**Technologies:** Python, OpenCV, Deep Learning
-
-[Repository](#) · [Demonstration](#)
 
 ---
 
-### IoT Monitoring Systems
+### VOD — AI Video Processing Toolkit
 
-End-to-end IoT systems that collect sensor data from embedded devices and present real-time information through web dashboards.
+An AI-assisted video processing toolkit designed to automate dubbing, subtitle generation, script translation, and video metadata extraction workflows. The project integrates speech recognition, AI-based translation, text-to-speech generation, FFmpeg video rendering, and a desktop interface to support efficient video localization and post-production tasks.
 
-**Technologies:** ESP32, Sensors, MQTT, HTTP, Node.js, React
+**Technologies:** Python, Whisper AI, Gemini API, Edge TTS, FFmpeg, Tkinter, yt-dlp, Selenium
 
-[Repository](#) · [Demonstration](#)
+[Repository](https://github.com/tranvanha-tyranno/VOD)
+
+---
+
+### LumoHub — AI Companion and IoT Schedule Management System
+
+A full-stack AI and IoT system designed to support intelligent schedule management, event reminders, and voice-based interaction through a connected ESP32 device. The project integrates a FastAPI backend, PostgreSQL database, Next.js dashboard, WebSocket communication, and an AI assistant pipeline for speech recognition, natural language response generation, and text-to-speech audio streaming.
+
+**Technologies:** Python, FastAPI, PostgreSQL, Next.js, TypeScript, Tailwind CSS, WebSocket, ESP32, Gemini API, Groq Whisper, Docker
+
+[Repository](https://github.com/Luminos-Tech/luminostech-lumohub) · [Demonstration](https://lumohub.luminostech.tech)
 
 ---
 
-### Full-Stack Web Applications
+### PlantCraft — AI Plant Care and AR Garden Companion
 
-Full-stack applications integrating frontend interfaces, backend services, databases, API layers, authentication, and deployment workflows.
+A gamified plant care web application that combines AI-based plant health diagnosis, AR-style camera interaction, and social plant sharing. The system allows users to manage virtual plant profiles, scan plant images for disease screening, receive treatment suggestions, decorate plants through camera-based object overlays, and share public plant data through QR-based access.
 
-**Technologies:** React, Next.js, Node.js, Express.js, Databases
+**Technologies:** Next.js, React, TypeScript, Tailwind CSS, Firebase, Zustand, TensorFlow.js, COCO-SSD, Gemini API, QR Code
 
-[Repository](#) · [Demonstration](#)
+[Repository](https://github.com/Luminos-Tech/plantcraft)
+
 
 ---
+
 
 ## Current Focus
 
