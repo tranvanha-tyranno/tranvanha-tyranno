@@ -1,21 +1,34 @@
-## About Me
+<div align="center">
 
-I am a Computer Science student interested in building practical software systems that combine artificial intelligence, web technologies, and IoT solutions.
+# Van Ha Tran
 
-Besides Machine Learning, Natural Language Processing, Computer Vision, and Web Development, I also work on IoT systems that connect hardware devices, sensors, APIs, databases, dashboards, and real-time monitoring applications.
+**Computer Science Undergraduate**
+Artificial Intelligence · Internet of Things · Full-Stack Software Engineering
 
-My main areas of interest include:
+[Portfolio](https://luminostech.tech/tranvanha) ·
+[Email](mailto:vanha.cv.vn@gmail.com) ·
+[LinkedIn](https://www.linkedin.com/in/tranvanha/) ·
+[GitHub](https://github.com/tranvanha-tyranno)
 
-* Machine Learning
-* Natural Language Processing
-* Computer Vision
-* IoT Development
-* Embedded Systems
-* Backend Development
-* Frontend Development
-* End-to-end product development
+</div>
 
-I enjoy working on projects that connect research, models, hardware devices, APIs, user interfaces, and deployment.
+---
+
+## Profile
+
+I am a Computer Science undergraduate at **Ton Duc Thang University**, with academic and practical interests in **Artificial Intelligence**, **Internet of Things**, and **Full-Stack Software Engineering**.
+
+My work focuses on designing and developing applied software systems that connect machine learning models, embedded devices, backend services, databases, APIs, and user-facing applications. I am particularly interested in building systems that are technically sound, maintainable, and useful in real-world contexts.
+
+---
+
+## Areas of Interest
+
+* **Artificial Intelligence:** Machine Learning, Deep Learning, Natural Language Processing, Computer Vision
+* **Internet of Things:** Sensors, ESP32, Arduino, MQTT, HTTP, real-time monitoring systems
+* **Web Engineering:** React, Next.js, Node.js, Express.js, RESTful APIs
+* **Backend Systems:** Database design, API architecture, deployment, scalable system design
+* **Software Engineering:** Clean architecture, documentation, maintainability, product-oriented development
 
 ---
 
@@ -23,113 +36,97 @@ I enjoy working on projects that connect research, models, hardware devices, API
 
 ### Programming Languages
 
-* Python
-* JavaScript / TypeScript
-* C++
-* Java
-* SQL
+Python · JavaScript · TypeScript · C++ · Java · HTML · CSS · SQL
 
-### Machine Learning & AI
+### Artificial Intelligence and Data
 
-* Machine Learning
-* Deep Learning
-* Natural Language Processing
-* Computer Vision
-* Data preprocessing
-* Model training and evaluation
+Machine Learning · Deep Learning · TensorFlow · PyTorch · OpenCV · Data Processing · Model Evaluation
 
-### IoT & Embedded Systems
+### Web and Backend Development
 
-* IoT application development
-* Microcontroller programming
-* Sensor data collection
-* Real-time monitoring systems
-* Device-to-server communication
-* MQTT / HTTP communication
-* ESP32 / Arduino / Raspberry Pi
-* Basic electronics and hardware integration
-* IoT dashboard development
+React · Next.js · Node.js · Express.js · RESTful APIs · Tailwind CSS · Vercel
 
-### Web Development
+### IoT and Embedded Systems
 
-* React
-* Next.js
-* Node.js
-* Express.js
-* REST APIs
-* HTML / CSS
+ESP32 · Arduino · Raspberry Pi · Sensors · MQTT · HTTP · Real-time Monitoring
 
-### Tools & Platforms
+### Databases and Tools
 
-* Git & GitHub
-* Docker
-* Linux
-* PostgreSQL
-* MongoDB
-* Vercel
+PostgreSQL · MongoDB · Git · GitHub · Docker · Linux · Visual Studio Code
 
 ---
 
-## Featured Projects
+## Selected Work
 
-### AI / Machine Learning Projects
+### Artificial Intelligence and Machine Learning
 
-**[Project Name]**
-A machine learning project focused on data preprocessing, model training, evaluation, and practical deployment.
+Applied machine learning projects involving data preprocessing, model development, evaluation, and deployment-oriented experimentation.
 
-* Built using Python and machine learning libraries
-* Implemented data preprocessing and model evaluation
-* Designed the project with practical use cases in mind
+**Technologies:** Python, Machine Learning, Data Processing
 
-Tech stack: Python, Machine Learning, Data Processing
+[Repository](#) · [Demonstration](#)
 
 ---
 
-### Computer Vision Projects
+### Computer Vision Applications
 
-**[Project Name]**
-A computer vision application for image processing, detection, classification, or visual analysis.
+Computer vision systems for image processing, object detection, classification, and visual analysis.
 
-* Applied computer vision techniques to real-world data
-* Built an end-to-end pipeline from input images to model output
-* Focused on accuracy, usability, and practical integration
+**Technologies:** Python, OpenCV, Deep Learning
 
-Tech stack: Python, OpenCV, Deep Learning
+[Repository](#) · [Demonstration](#)
 
 ---
 
-### IoT Projects
+### IoT Monitoring Systems
 
-**[Project Name]**
-An IoT system that collects sensor data from hardware devices and displays real-time information through a web dashboard.
+End-to-end IoT systems that collect sensor data from embedded devices and present real-time information through web dashboards.
 
-* Connected sensors and microcontrollers to collect data
-* Sent device data to a backend server using MQTT or HTTP
-* Built a dashboard for monitoring and visualization
-* Designed the system for practical real-world usage
+**Technologies:** ESP32, Sensors, MQTT, HTTP, Node.js, React
 
-Tech stack: ESP32 / Arduino, Sensors, MQTT / HTTP, Node.js, React, Database
+[Repository](#) · [Demonstration](#)
 
 ---
 
-### Web Development Projects
+### Full-Stack Web Applications
 
-**[Project Name]**
-A full-stack web application with frontend, backend, API integration, database management, and deployment.
+Full-stack applications integrating frontend interfaces, backend services, databases, API layers, authentication, and deployment workflows.
 
-* Built responsive user interfaces
-* Developed REST APIs and backend logic
-* Integrated database storage and authentication
-* Deployed the application for public access
+**Technologies:** React, Next.js, Node.js, Express.js, Databases
 
-Tech stack: React, Next.js, Node.js, Express.js, PostgreSQL / MongoDB
+[Repository](#) · [Demonstration](#)
 
 ---
 
-## What I Am Working On
+## Current Focus
 
-* Building real-world AI, IoT, and web applications
-* Improving my machine learning and software engineering skills
-* Developing IoT systems with sensors, microcontrollers, APIs, and dashboards
-* Writing cleaner documentation for my projects
-* Learning more about scalable backend systems and deployment
+I am currently focused on strengthening my foundations in machine learning, backend architecture, IoT system design, and production-ready software development. I am also working on applied projects that combine embedded devices, APIs, dashboards, and intelligent models into complete end-to-end systems.
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=tranvanha-tyranno&show_icons=true&hide_border=true&theme=transparent" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranvanha-tyranno&layout=compact&hide_border=true&theme=transparent" />
+
+</div>
+
+---
+
+## Contact
+
+I am open to internship opportunities, research-oriented projects, IoT development, and software engineering collaborations.
+
+**Email:** [vanha.cv.vn@gmail.com](mailto:vanha.cv.vn@gmail.com)
+**LinkedIn:** [linkedin.com/in/tranvanha](https://www.linkedin.com/in/tranvanha/)
+**Portfolio:** [luminostech.tech/tranvanha](https://luminostech.tech/tranvanha)
+
+---
+
+<div align="center">
+
+<sub>Last updated: 2026</sub>
+
+</div>
